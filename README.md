@@ -13,4 +13,5 @@ This repo contains all of the waypoints in CSV format, a format that Bot Warfare
 
 VicRattlehead
 
+Boxhead78
 
